@@ -26,3 +26,15 @@ print(c)                               #İlk bölme:
                                 #[1, 2, 3, 4, 5]: Bu, dizinin 0'dan 4. indeksine (5. elemana) kadar olan kısmıdır.
                                 #[6]: Bu, dizinin 5. indeksi (6. elemanı) olarak sadece tek bir elemandan oluşan bir dizi parçasıdır.
                                 #[7, 8, 9]: Bu, dizinin 6. indeksinden sonuna kadar olan kısmıdır.
+                                #numpy.array(): Dizi oluşturma.
+                                #numpy.zeros(): Sıfırlardan oluşan bir dizi oluşturma.
+                                #numpy.ones(): Birlerden oluşan bir dizi oluşturma.
+                                #numpy.arange(): Belirli bir aralıktaki sayıları içeren bir dizi oluşturma.
+                                #numpy.linspace(): Belirli bir aralıktaki sayıları eşit aralıklarla içeren bir dizi oluşturma.
+                                #umpy.reshape(): Dizinin şeklini değiştirme.
+                               # numpy.concatenate(): Dizileri birleştirme.
+                                #numpy.sum(): Dizideki elemanların toplamını hesaplama.
+                               # numpy.mean(): Dizideki elemanların ortalamasını hesaplama.
+                               # numpy.max(): Dizideki en büyük elemanı bulma.
+                               # numpy.min(): Dizideki en küçük elemanı bulma.
+                               # numpy.dot(): İki dizinin iç çarpımını hesaplama.
